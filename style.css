@@ -335,3 +335,127 @@ padding-left: 40px;
 margin-top: 50px;
 border-radius: 24px;
 }
+/* <!-- Donate Today --> */
+.donapara1{
+font-weight:700 ;
+font-size:40px ;
+color: rgb(14, 14, 14);
+text-align: center;
+margin-bottom: 0px;
+}
+.donapara2{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+text-align: center;
+}
+/* money1 */
+.father-money{
+display: flex;
+justify-content: space-around;
+
+}
+
+
+
+.money1{
+height: 120px;
+background-color: rgb(255, 255, 255);
+color: rgba(14, 14, 14, 0.8);
+font-weight:700 ;
+font-size:40px ;
+padding:0px 20px;
+border-radius: 16px;
+}
+.money2{
+height: 120px;
+background-color: rgb(198, 228, 214);
+color: rgba(14, 14, 14, 0.8);
+font-weight:700 ;
+font-size:40px ;
+padding:0px 20px;
+border-radius: 16px;
+}
+/* input-money */
+.input-money{
+font-weight:400 ;
+font-size:24px ;
+color: rgba(14, 14, 14, 0.3);
+border: none;
+padding: 20px 400px 20px 400px ;
+margin-left: 70px;
+margin-top: 30px;
+}
+.donebtn{
+color:rgb(255, 255, 255);
+background-color: rgb(0, 106, 80);
+font-weight:600 ;
+font-size:18px ;
+padding: 17px 34px ;
+border: none;
+border-radius: 8px;
+margin-top: 40px;
+margin-left: 500px;
+}
+.Subscribe-father{
+background-color: rgb(198, 228, 214);
+height: 395px;
+border-radius: 24px;
+margin-top: 50px ;
+}
+/* class="Subscribe-sub-title" */
+.Subscribe-sub-title{
+font-weight:700 ;
+font-size:40px ;
+color: rgb(14, 14, 14);
+text-align: center;
+padding-top: 100px;
+margin-bottom: 0px;
+}
+.Subscribe-title{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+text-align: center;
+}
+.Subscribe-input{
+padding: 20px 350px 20px 40px;
+margin-left: 280px;
+margin-top: 20px;
+border: none;
+border-radius: 8px 0px 0px 8px;
+
+}
+.Subscribe-btn{
+padding: 20px 80px 20px 20px;
+margin-left: -10px;
+margin-top: 20px;
+border: none;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 106, 80);
+font-weight:600 ;
+/* font-size:18px ; */
+border-radius: 0px 8px 8px 0px;
+
+}
+.Subscribe-btn:hover{
+background-color: hotpink;
+color: black;
+}
+.lastparasub{
+text-align: center;
+color: rgba(14, 14, 14, 0.7);
+font-weight:400 ;
+font-size:16px ;
+
+}
+.lastbangla{
+color: rgb(14, 14, 14);
+font-weight:700 ;
+font-size:32px ;
+text-align: center;
+}
+.fix{
+margin-left: 550px;
+margin-top: 30px;
+}
