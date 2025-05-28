@@ -1,0 +1,201 @@
+.color{
+background-color: rgb(245, 245, 245);
+font-family: sans-serif;
+}
+.navdiv{
+display: flex;
+justify-content: space-between;
+}
+.nav1{
+font-weight: 700;
+font-size: 32px;
+color: rgb(14, 14, 14);
+margin-top: 50px;
+/* margin-left: 160px; */
+}
+.nav2{
+font-weight: 600;
+font-size: 18px;
+color: rgb(0, 106, 80);
+border: 1px solid rgb(0, 106, 80);
+border-radius: 5px;
+padding: 10px 20px 10px 20px;
+margin-top: 50px;
+/* margin-right: 160px; */
+}
+.nav2:hover{
+background-color: hotpink;
+color: black;
+border: 1px solid black ;
+}
+/* Idea-father */
+.Idea-father{
+height: 560px;
+border-radius: 24px;
+display: flex;
+background-color: rgb(198, 228, 214);
+margin-top: 100px;
+}
+.Ideachild1{
+margin-top: 50px;
+margin-left: 50px;
+
+}
+.Ideachild2{
+margin-right: 40px;
+margin-top: 100px;
+}
+.ideapara1{
+font-weight:500 ;
+font-size:24px ;
+color:rgba(14, 14, 14, 0.5) ;
+}
+.ideapara2{
+font-weight:700 ;
+font-size:56px ;
+color:rgb(14, 14, 14);
+}
+.ideapara3{
+border: none;
+border-radius: 8px;
+padding: 15px;
+background-color: rgb(0, 106, 80);
+font-weight:600 ;
+font-size:18px ;
+color: aliceblue;
+
+}
+/* phillarshead */
+.phillarshead{
+font-weight:700 ;
+font-size:40px ;
+color: rgb(14, 14, 14);
+margin-top: 100px;
+
+}
+/* phillarshead  main 4 division*/
+.phillar-father{
+display: flex;
+
+
+}
+.phillar-child1{
+background-color: rgb(255, 255, 255);
+border-radius: 15px;
+height: 244px;
+width: 300px;
+margin-right: 20px;
+margin-left: 20px;
+}
+.phillarpara1{
+color: rgba(14, 14, 14, 0.8);
+font-weight:700 ;
+font-size:20px ;
+margin-bottom: 0px;
+margin-top: px;
+margin-left: 30px;
+}
+.phillarpara2{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+margin-left: 30px;
+}
+.phillarimg{
+margin-top: 40px;
+margin-left: 30px;
+}
+/* The Vision of Future */
+.Vision-father{
+display: flex;
+}
+
+.Visionhead{
+font-weight:700 ;
+font-size:40px ;
+color:rgb(14, 14, 14) ;
+margin-top: 100px;
+}
+.Visiontitle{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+}
+.Vision-child1{
+background-color: rgba(84, 144, 245, 0.2);
+border-radius: 15px;
+height: 320px;
+width: 400px;
+margin-right: 20px;
+margin-left: 20px;
+}
+.visionbtn1{
+background-color: rgb(84, 144, 245);
+color:rgb(255, 255, 255) ;
+font-weight:600 ;
+font-size:16px ;
+padding:10px ;
+border: none;
+border-radius:8px ;
+margin-left: 30px;
+}
+.Vision-child2{
+background-color: rgb(198, 228, 214);
+border-radius: 15px;
+height: 320px;
+width: 400px;
+margin-right: 20px;
+margin-left: 20px;
+}
+.visionbtn2{
+background-color: rgb(9, 161, 92);
+color:rgb(255, 255, 255) ;
+font-weight:600 ;
+font-size:16px ;
+padding:10px ;
+border: none;
+border-radius:8px ;
+margin-left: 30px;
+}
+.Vision-child3{
+background-color:rgb(247, 235, 207);
+border-radius: 15px;
+height: 320px;
+width: 400px;
+margin-right: 20px;
+margin-left: 20px;
+}
+.visionbtn3{
+background-color: rgb(255, 194, 57);
+color:rgb(255, 255, 255) ;
+font-weight:600 ;
+font-size:16px ;
+padding:10px ;
+border: none;
+border-radius:8px ;
+margin-left: 30px;
+}
+/* Dr. Muhammad Yunus */
+
+.Yunus{
+background: rgb(255, 255, 255);
+margin-top: 50px;
+padding: 20px;
+border-radius: 20px;
+}
+
+.yunusimg{
+margin-bottom: -60px;
+}
+
+.Yunuspara1{
+color: rgba(14, 14, 14, 0.8);
+font-weight:400 ;
+font-size:16px ;
+}
+.Yunuspara2{
+color: rgba(14, 14, 14, 0.8);
+font-weight:600 ;
+font-size:20px ;
+margin-bottom: -10px;
+}
