@@ -199,3 +199,139 @@ font-weight:600 ;
 font-size:20px ;
 margin-bottom: -10px;
 }
+/* Opiniontitle */
+.tableseletor{
+background-color: rgb(255, 255, 255);
+height: 409px;
+padding-top: 50px;
+padding-bottom:30px;
+padding-left: 30px;
+border-radius: 20px;
+
+}
+
+
+.Opiniontitle{
+font-weight:700 ;
+font-size:40px ;
+color: rgb(14, 14, 14);
+margin-top: 50px;
+
+}
+table,td{
+border: 2px solid rgb(208, 210, 211);
+border-collapse: collapse;
+padding: 30px 180px 30px 30px;
+
+}
+.thtitle1{
+padding: 30px 180px 30px 30px;
+background-color: rgb(198, 228, 214);
+text-align: left;
+color: rgb(14, 14, 14);
+font-weight:600 ;
+font-size:20px ;
+}
+.thtitle2{
+/* padding: 30px 180px 30px 30px; */
+background-color: rgb(198, 228, 214);
+text-align: left;
+color: rgb(14, 14, 14);
+font-weight:600 ;
+font-size:20px ;
+}
+.tdbig{
+color: rgb(14, 14, 14);
+font-weight:600 ;
+font-size:16px ;
+text-align: left;
+
+}
+.tdsmall{
+background-color: rgba(9, 161, 92, 0.15);
+/* margin-left: 0px; */
+padding: 10px;
+border-radius: 5px;
+}
+/* Recent News */
+.newstitle{
+color:rgb(14, 14, 14) ;
+font-weight:700 ;
+font-size:40px ;
+margin-top: 100px;
+
+}
+.newspara{
+color:rgba(14, 14, 14, 0.7) ;
+font-weight:400 ;
+font-size:16px ;
+
+}
+/* Satellite section */
+.Satellite-father1{
+display: flex;
+justify-content: space-between;
+background-color: rgb(255, 255, 255);
+height: 402px;
+padding-top: 80px;
+padding-left: 40px;
+border-radius: 24px;
+}
+.imgchange{
+border-radius: 15px;
+margin-right: 50px;
+
+}
+.sate-child-para1{
+color:rgba(14, 14, 14, 0.8) ;
+font-weight:700 ;
+font-size:32px ;
+margin-bottom: 0px;
+}
+.sate-date{
+font-weight:400 ;
+font-size:16px ;
+color:rgba(14, 14, 14, 0.7);
+}
+.sate-time{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+margin-left:20px;
+}
+.sate-child-para2{
+font-weight:400 ;
+font-size:16px ;
+color: rgba(14, 14, 14, 0.7);
+}
+.sate-child-btn1{
+background-color:rgb(0, 106, 80);
+color:rgb(255, 255, 255) ;
+font-weight:600 ;
+font-size:18px ;
+padding:13px  26px;
+border: none;
+border-radius:8px ;
+
+}
+/* sate 02222222222 */
+.Satellite-father2{
+display: flex;
+justify-content: space-between;
+background-color: rgb(255, 255, 255);
+height: 402px;
+padding-top: 80px;
+padding-left: 40px;
+margin-top: 50px;
+border-radius: 24px;
+}
+.Satellite-father3{
+display: flex;
+justify-content: space-between;
+background-color: rgb(255, 255, 255);
+height: 402px;
+padding-top: 80px;
+padding-left: 40px;
+margin-top: 50px;
+border-radius: 24px;
+}
